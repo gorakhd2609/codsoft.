@@ -1,0 +1,41 @@
+{
+  "users": {
+    "guest": {
+      "name": null,
+      "last_seen": "2025-09-14T17:23:27.808813",
+      "visits": 3,
+      "chats": [
+        {
+          "sender": "user",
+          "text": "hey",
+          "time": "2025-09-14T17:15:41.669911"
+        },
+        {
+          "sender": "bot",
+          "text": "Hi there! I'm RuleBot. What's your name?",
+          "time": "2025-09-14T17:15:41.677862"
+        },
+        {
+          "sender": "user",
+          "text": "hey",
+          "time": "2025-09-14T17:21:02.395440"
+        },
+        {
+          "sender": "bot",
+          "text": "Hi there! I'm RuleBot. What's your name?",
+          "time": "2025-09-14T17:21:02.411332"
+        },
+        {
+          "sender": "user",
+          "text": "hey",
+          "time": "2025-09-14T17:23:27.795741"
+        },
+        {
+          "sender": "bot",
+          "text": "Hello! I'm RuleBot — what's your name?",
+          "time": "2025-09-14T17:23:27.808813"
+        }
+      ]
+    }
+  }
+}
